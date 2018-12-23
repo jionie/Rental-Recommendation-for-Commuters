@@ -4,9 +4,9 @@ cse6242-final_project
 
 To run our project locally:
 
-(1)First, follow the README_BackEnd to run the backend server.
+(1)First, follow the README_BackEnd to run the backend server, remember to unzip crime.db.zip first.
 
-(2)Second, follow the README_FrontEnd to run the front end server.
+(2)Second, follow the README_FrontEnd to run the front end server, remember to unzip node_modules.zip first.
 ## IMPORTANT: Please make sure that the local host and port number of backend server is correctly added to line 25 and line 27 in app.js in FrontEnd directory. (i.e. Postname:127.0.0.1.  Port: 3000)
 
 (3)Third, open your web browser and visit our website via the host and port number of your frontend program. (i.e. 127.0.0.1:3000)
